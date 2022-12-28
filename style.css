@@ -14,7 +14,7 @@ body{
 .attribution {
   font-size: 12px;
   text-align: center;
-  margin-top: 1rem;
+  margin-top: 4rem;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
@@ -30,7 +30,7 @@ body {
   display: grid;
   grid-gap: 1.5rem;
   width: 80%;
-  height: 90vh;
+  height: 80vh;
   /* border: 1px solid red; */
   margin: 0 auto;
   /* justify-content: center; */
@@ -74,6 +74,7 @@ body {
 /*common styles*/
 .img{
   border-radius: 50%;
+  border: 2px hsl(263, 55%, 52%) solid;
 }
 .flex-item{
   display: flex;
